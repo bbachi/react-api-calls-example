@@ -1,0 +1,23 @@
+.header {
+  width: 100%;
+  padding: 2%;
+  background-color: rgb(238, 14, 14);
+  color: white;
+  text-align: center;
+}
+
+.display-board {
+  width: 100%;
+  background-color: rgb(14, 18, 238);
+  padding: 5%;
+}
+
+.number {
+  color: white;
+  font-size: 75px;
+  text-align: center;
+}
+
+.mrgnbtm {
+  margin-top: 20px;
+}
